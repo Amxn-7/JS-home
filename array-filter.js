@@ -5,6 +5,12 @@
 // console.log(numbers)
 
 
+// const words = ["apple", "banana", "orange", "grapefruit"];
+
+// const longWords = words.filter((word) => word.length > 6);
+
+// console.log(longWords); // Output: ["banana", "grapefruit"]
+
 const products = [
     {
         id: 1,
